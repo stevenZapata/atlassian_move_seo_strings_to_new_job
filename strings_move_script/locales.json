@@ -1,0 +1,134 @@
+{
+    "locales": [
+        {
+            "locale": "Japanese",
+            "smartling_locale": "Japanese (Japan)",
+            "smartling_locale_code": "ja-JP"
+        },
+        {
+            "locale": "German",
+            "smartling_locale": "German (Germany",
+            "smartling_locale_code": "de-DE"
+        },
+        {
+            "locale": "French",
+            "smartling_locale": "French (France)",
+            "smartling_locale_code": "fr-FR"
+        },
+        {
+            "locale": "Spanish",
+            "smartling_locale": "Spanish (International)",
+            "smartling_locale_code": "es"
+        },
+        {
+            "locale": "Russian",
+            "smartling_locale": "Russian (Russia)",
+            "smartling_locale_code": "ru-RU"
+        },
+        {
+            "locale": "Portuguese (Brazil)",
+            "smartling_locale": "Portuguese (Brazil)",
+            "smartling_locale_code": "pt-BR"
+        },
+        {
+            "locale": "Chinese Simplified",
+            "smartling_locale": "Chinese (China-Simplified)",
+            "smartling_locale_code": "zh-CN"
+        },
+        {
+            "locale": "Polish",
+            "smartling_locale": "Polish (Poland)",
+            "smartling_locale_code": "pl-PL"
+        },
+        {
+            "locale": "Italian",
+            "smartling_locale": "Italian (Italy)",
+            "smartling_locale_code": "it-IT"
+        },
+        {
+            "locale": "Dutch",
+            "smartling_locale": "Dutch (Netherlands)",
+            "smartling_locale_code": "nl-NL"
+        },
+        {
+            "locale": "Korean",
+            "smartling_locale": "Korean (South Korea)",
+            "smartling_locale_code": "ko-KR"
+        },
+        {
+            "locale": "Hungarian",
+            "smartling_locale": "Hungarian (Hungary)",
+            "smartling_locale_code": "hu-HU"
+        },
+        {
+            "locale": "Czech",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Finnish",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Norwegian Bokmål",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Swedish",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Traditional Chinese",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Ukrainian",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Turkish",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Thai",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Vietnamese",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Danish",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Estonian",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Romanian",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Slovak",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        },
+        {
+            "locale": "Icelandic",
+            "smartling_locale": "",
+            "smartling_locale_code": ""
+        }
+    ]
+}

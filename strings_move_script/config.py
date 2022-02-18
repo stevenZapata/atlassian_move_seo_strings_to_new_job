@@ -1,0 +1,6 @@
+token_secret = 'oc5fhv1po4nbn953aq71iub1cmJp-rpf1v5hals2hktejqv0o8q1fta'
+user_identifier = 'bsllgkwfuazlytkbwjnwlkkdtwdruj'
+contentful_project_id = ''
+magnolia_project_id = 'bb66337b7'
+default_workFlowStepUid = ''
+CSV_file_path = '/Users/stevenzapata/Documents/Smartling_customers/Atlassian/strings_move_script/SEO.csv'
